@@ -2,6 +2,14 @@
 
 Kumpulan soal mata kuliah Dasar-Dasar Pemrograman 1 (DDP 1) Fasilkom UI 2021 (Bakung).
 
+## Validating
+
+_(Shameless self-plug)_
+
+Jika kamu ingin mencoba validasi code kamu dengan test cases yang ada, kamu bisa gunakan [DDPValidator](https://github.com/rorre/DDPValidator)! Tool ini dibuat khusus untuk memvalidasi code Lab (dan TP 04) kamu.
+
+Lab 06 dan 10 tidak dapat dicek sebab dibutuhkan perubahan code pada test case.
+
 ## Lab
 
 | Materi                                       | A   | B-H                                                                        |
