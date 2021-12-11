@@ -503,3 +503,7 @@ Silakan memilih salah satu menu di bawah:
 Pilihan Anda: 3
 Terima kasih telah menggunakan Dekdepedia!
 ```
+
+---
+
+Adapted from `Lab09.pdf`. Problem made by ABI, AL, BIG, MLW, LIT🔥.
