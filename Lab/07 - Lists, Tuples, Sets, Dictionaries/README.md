@@ -205,3 +205,7 @@ Terima kasih sudah menggunakan program ini!
 ```
 
 File test tersedia di dalam folder [Test Files](Test%20Files).
+
+---
+
+Adapted from `Lab 07.pdf`. Problem made by BYN, IA, HIS, MRT, ORI.
