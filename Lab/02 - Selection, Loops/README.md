@@ -146,4 +146,4 @@ Total IPT kamu adalah 3.31
 ---
 
 Additional test cases is available [here](./test_cases.txt)
-Adapted from `Lab02.pdf`, problem made by ABI, AL, BIG, MLW, LIT🔥.
+Adapted from `Lab02.pdf`. Problem made by ABI, AL, BIG, MLW, LIT🔥.

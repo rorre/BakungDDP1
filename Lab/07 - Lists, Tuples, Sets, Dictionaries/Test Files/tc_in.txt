@@ -1,0 +1,32 @@
+100 Jakarta 21 500000
+200 Jakarta 21 350000
+250 Bandung 23 320000
+300 Jakarta 22 240000
+selesai
+INFO_TUJUAN
+TUJUAN_KELAS Jakarta Eksekutif
+TUJUAN_KELAS Jakarta Bisnis
+TUJUAN_KELAS Surabaya Eksekutif
+TUJUAN_KELAS Depok Ekonomi
+EXIT
+
+
+-----------tc2---------------
+
+
+100 Jakarta 21 500000
+101 Jakarta 22 500000
+102 Surabaya 12 340000 
+103 Jakarta 0 70000
+104 Bandung 12 32000
+105 Jakarta 12 900000
+106 Jakarta 5 1000000
+selesai
+INFO_TUJUAN
+TUJUAN_JAM Jakarta 5
+TUJUAN_JAM Jakarta 10
+TUJUAN_JAM Jakarta 12
+TUJUAN_JAM Jakarta 20
+TUJUAN_JAM Jakarta 21
+TUJUAN_JAM Jakarta 23
+EXIT

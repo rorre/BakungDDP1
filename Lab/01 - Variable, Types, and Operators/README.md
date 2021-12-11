@@ -130,4 +130,4 @@ Luas daerah cat ungu: 100000139800048.86
 
 ---
 
-Adapted from `Lab01.pdf`, problem made by PAN, FHZ, KD, BPK, CR.
+Adapted from `Lab01.pdf`. Problem made by PAN, FHZ, KD, BPK, CR.

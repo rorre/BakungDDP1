@@ -79,4 +79,4 @@ Kumpulkan dengan format “refleksi.txt”
 
 ---
 
-Adapted from `Lab00.pdf`, problem made by ORI.
+Adapted from `Lab00.pdf`. Problem made by ORI.

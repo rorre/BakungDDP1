@@ -1,0 +1,95 @@
+Selamat datang! Silakan masukan jadwal KA:
+100 Jakarta 21 500000
+200 Jakarta 21 350000
+250 Bandung 23 320000
+300 Jakarta 22 240000
+selesai
+
+Perintah yang tersedia:
+1. INFO_TUJUAN
+2. TUJUAN_KELAS <tujuan_akhir> <kelas_kereta>
+3. TUJUAN_JAM <tujuan_akhir> <jam_keberangkatan>
+4. EXIT
+
+Masukkan perintah: INFO_TUJUAN
+KA di stasiun ini memiliki tujuan akhir:
+Jakarta
+Bandung
+
+Masukkan perintah: TUJUAN_KELAS Jakarta Eksekutif
+KA 100 berangkat pukul 21 dengan harga tiket 500000
+
+Masukkan perintah: TUJUAN_KELAS Jakarta Bisnis
+KA 200 berangkat pukul 21 dengan harga tiket 350000
+
+Masukkan perintah: TUJUAN_KELAS Surabaya Eksekutif
+Tidak ada jadwal KA yang sesuai
+
+Masukkan perintah: TUJUAN_KELAS Depok Ekonomi
+Tidak ada jadwal KA yang sesuai
+
+Masukkan perintah: EXIT
+Terima kasih sudah menggunakan program ini!
+
+
+
+------------ tc2 ------------
+
+
+Selamat datang! Silakan masukan jadwal KA:
+100 Jakarta 21 500000
+101 Jakarta 22 500000
+102 Surabaya 12 340000 
+103 Jakarta 0 70000
+104 Bandung 12 32000
+105 Jakarta 12 900000
+106 Jakarta 5 1000000
+selesai
+
+Perintah yang tersedia:
+1. INFO_TUJUAN
+2. TUJUAN_KELAS <tujuan_akhir> <kelas_kereta>
+3. TUJUAN_KELAS_TERMURAH <tujuan_akhir> <kelas_kereta>
+4. TUJUAN_JAM <tujuan_akhir> <jam_keberangkatan>
+5. TUJUAN_JAM_TERMURAH <tujuan_akhir> <jam_keberangkatan>
+6. EXIT
+
+Masukkan perintah: INFO_TUJUAN
+KA di stasiun ini memiliki tujuan akhir:
+Bandung
+Jakarta
+Surabaya
+
+Masukkan perintah: TUJUAN_JAM Jakarta 5
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: TUJUAN_JAM Jakarta 10
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: TUJUAN_JAM Jakarta 12
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 105 berangkat pukul 12 dengan harga tiket 900000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: TUJUAN_JAM Jakarta 20
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 105 berangkat pukul 12 dengan harga tiket 900000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: TUJUAN_JAM Jakarta 21
+KA 100 berangkat pukul 21 dengan harga tiket 500000
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 105 berangkat pukul 12 dengan harga tiket 900000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: TUJUAN_JAM Jakarta 23
+KA 100 berangkat pukul 21 dengan harga tiket 500000
+KA 101 berangkat pukul 22 dengan harga tiket 500000
+KA 103 berangkat pukul 0 dengan harga tiket 70000
+KA 105 berangkat pukul 12 dengan harga tiket 900000
+KA 106 berangkat pukul 5 dengan harga tiket 1000000
+
+Masukkan perintah: EXIT
+Terima kasih sudah menggunakan program ini!
