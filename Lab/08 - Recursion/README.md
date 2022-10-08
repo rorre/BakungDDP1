@@ -1,4 +1,4 @@
-# Mencari Jadwal Kereta
+# Penyebaran Virus KOPIT
 
 <p align="center">
     <img src="https://png.pngtree.com/png-vector/20200423/ourlarge/pngtree-cute-virus-cartoon-illustration-png-image_2191780.jpg" />
